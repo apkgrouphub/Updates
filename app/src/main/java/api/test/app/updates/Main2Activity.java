@@ -26,6 +26,7 @@ import java.nio.Buffer;
 public class Main2Activity extends AppCompatActivity {
     EditText editText;
     TextView textView;
+    Button button;
     //public static String file="new file";
 
     @Override
